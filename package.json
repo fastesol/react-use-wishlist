@@ -1,6 +1,6 @@
 {
   "name": "react-use-wishlist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React hook library for managing wishlist state.",
   "author": "Muaaz Khalid <muaaz.khalid.m@gmail.com>",
   "license": "Apache-2.0",
