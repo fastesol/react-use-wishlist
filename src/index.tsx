@@ -72,9 +72,7 @@ function reducer(state: WishlistProviderState, action: Actions) {
       return generateWishlistState(state, action.payload);
 
     case "ADD_ITEM": {
-      var tempItems = state.items;
-      tempItems.push(action.payload);
-      const items = tempItems;
+      const items = [...state.items, action.payload];
 
       return generateWishlistState(state, items);
     }
