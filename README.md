@@ -9,9 +9,9 @@
 
 - **No dependencies**
 - 💳 Not tied to any payment gateway, or checkout - create your own!
-- 🔥 Persistent wishlists with local storage, or your own adapter
+- 🔥 Persistent wishlists with local storage, or your own 
 - ⭐️ Supports multiples wishlists per page
-- 🛒 Flexible wishlist item schema
+- 🛒 Flexible and reusable wishlist item schema
 - 🥞 Works with Next, Gatsby, React
 - ♻️ Trigger your own side effects with wishlist handlers (on item add, remove)
 - 🛠 Built with TypeScript
